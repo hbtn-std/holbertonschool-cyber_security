@@ -1,0 +1,1 @@
+./flag.sh NMSR8V8Y9B2UOLBG Madin357 100-flag.txt
